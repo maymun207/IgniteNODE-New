@@ -1,9 +1,9 @@
 /**
- * 
- * 
- * @author yavuz.erzurumlu (http://www.ardictech.com)
+ *
+ *
+ * SONAR
  * @date 2016-09-07
- * 
+ *
  **/
 
 #ifndef _INCL_CONFIGURATIONFILEUTILS
@@ -24,7 +24,7 @@
  * @param ssid String pointer for storing SSID.
  * @param pass String pointer for storing PSK.
  * @return True or False.
- * 
+ *
  * The config file have to containt the WiFi SSID in the first line
  * and the WiFi PSK in the second line.
  * Line seperator can be \r\n (CR LF) \r or \n.
